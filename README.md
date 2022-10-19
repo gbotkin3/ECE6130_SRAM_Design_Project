@@ -8,3 +8,5 @@
    For Example: I have the directory in my home directory so I put this in cds.lib
    "DEFINE ECE6130_SRAM_Design_Project /nethome/gbotkin3/ECE6130_SRAM_Design_Project"
 ```
+##Libraries
+- Register FF
